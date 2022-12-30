@@ -20,6 +20,8 @@ public class HashSetScenario {
         for (String string : str) {
         	
         	System.out.println(string);
+        	
+        	System.out.println("test");
 			
 		}
 
