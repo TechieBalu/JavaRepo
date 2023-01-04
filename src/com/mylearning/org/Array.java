@@ -16,7 +16,7 @@ public class Array {
 		
 		  int b=10;
 		  
-		  System.out.println("Value of division:"+b/2);
+		  System.out.println("Value of division:"+b/5);
 		  
 		 		
 		
